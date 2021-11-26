@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "vigadeOtsing_topolja", "vigadeOtsing_topolja.pyproj", "{159BF32F-24A0-4AB2-B454-D99DA2DB34BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{159BF32F-24A0-4AB2-B454-D99DA2DB34BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159BF32F-24A0-4AB2-B454-D99DA2DB34BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27149DA7-3BDB-4C6A-995C-882405E68AE9}
+	EndGlobalSection
+EndGlobal
